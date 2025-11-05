@@ -1,0 +1,2 @@
+            placeholder="Enter Time Quantum"
+            
