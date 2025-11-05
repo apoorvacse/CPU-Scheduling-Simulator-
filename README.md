@@ -1,4 +1,4 @@
-#  **Scheduling Algorithms – A Visual Approach**
+#  **⚙️📊Scheduling Algorithms – A Visual Approach**
 
 Efficient CPU scheduling is essential for seamless multitasking, ensuring optimal CPU utilization by determining which process runs and when. This project, offers an **interactive and dynamic** visualization of various scheduling algorithms to enhance comprehension of execution order, waiting time, and turnaround time.
 
@@ -10,15 +10,17 @@ CPU scheduling plays a vital role in **maximizing system efficiency and resource
 - ⌛ **Turnaround Time** – The total time from process arrival to its completion.
 - ⚡ **Response Time** – The time taken for the first execution after arrival.
 
-Optimized scheduling ensures fair CPU distribution, improves system throughput, and minimizes delays.
+✅Optimized scheduling ensures:
+
+  -> Fair CPU distribution
+
+  -> Higher system throughput
+
+  -> Reduced waiting and response delays
 
 ---
 
-## 📌 **Implemented Scheduling Algorithms**
-- 🏁 **First Come First Serve (FCFS)** – A **non-preemptive** strategy where processes execute in arrival order.
-- ⏱ **Shortest Job First (SJF)** – Prioritizes processes with the **shortest burst time** to improve efficiency.
-- 🔄 **Round Robin (RR)** – **Time-sliced execution** ensures fairness among processes.
-- 🎖 **Priority Scheduling** – Executes processes based on **priority levels** rather than arrival time.
+<img width="1536" height="672" alt="Gemini_Generated_Image_agqe6xagqe6xagqe" src="https://github.com/user-attachments/assets/799fc112-718b-450e-bc78-cbdd4fbe2b6c" />
 
 ---
 
@@ -69,5 +71,4 @@ This project provides **📊 Gantt Chart-based real-time visualization**, enabli
   git commit -m "Added Gantt chart animation"  
   ```  
 - 🔗 **Submit a pull request.**
-
-📩 **Project Owner:** _CODE__KRATOS_  
+  
