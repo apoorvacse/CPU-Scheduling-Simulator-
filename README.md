@@ -59,6 +59,7 @@ This project provides **📊 Gantt Chart-based real-time visualization**, enabli
 
 ---
 
+<<<<<<< HEAD
 ## 🤝 **Contributing to the Project**
 ### 🌟 **How to Contribute?**
 - 🔄 **Fork the repository.**
@@ -72,3 +73,6 @@ This project provides **📊 Gantt Chart-based real-time visualization**, enabli
   ```  
 - 🔗 **Submit a pull request.**
   
+=======
+
+>>>>>>> 5f7ff9a (adding readme)
