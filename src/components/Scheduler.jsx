@@ -2,13 +2,13 @@ import { useState, useEffect } from "react";
 import ProcessForm from "./ProcessForm";
 import SRJF from "./SRJF";
 import FCFS from "./FCFS";
-import RR from "./RR.jsx";
+import RR from "./RoundRobin.jsx";
 import PriorityNonPreemptive from "./PriorityNonPreemptive.jsx";
 import PriorityScheduling from "./PriorityScheduling";
 import ProcessDetails from "./ProcessDetails";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import SJF from "./SJF";
+import SJF from "./ShortestJobFirst";
 
 const Scheduler = () => {
   const [algorithm, setAlgorithm] = useState("FCFS");

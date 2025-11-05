@@ -23,7 +23,7 @@ const GitHubFooter = () => {
         <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
           {/* Left side: GitHub repo link */}
           <a 
-            href="https://github.com/Abhishek-kroy/scheduling-algo"
+            href="https://github.com/apoorvacse/CPU-Scheduling-Simulator-"
             target="_blank"
             rel="noopener noreferrer"
             className={`
@@ -40,7 +40,7 @@ const GitHubFooter = () => {
           <div className="flex items-center gap-4">
             {/* Star button */}
             <a 
-              href="https://github.com/Abhishek-kroy/scheduling-algo/stargazers"
+              href="https://github.com/apoorvacse/CPU-Scheduling-Simulator-"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 group"
